@@ -1,0 +1,1 @@
+("~/Dropbox/current/oito1/app/" "~/Dropbox/current/rails/demo/" "/Volumes/TOLEDO HD/vex/atualiza_ip/" "~/prelude/" "~/Dropbox/current/golang/gopath/src/gopl.io/" "~/Desktop/geeknote/" "~/Dropbox/current/nodejs/wspg/new/node-postgres-promises/" "~/.oh-my-zsh/" "~/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch11/11_03/finished/" "~/Dropbox/current/emacs/dot-emacs/")

@@ -1,0 +1,53 @@
+
+;; ----- smex-history -----
+(
+ uncomment-region
+ comment-region
+ replace-string
+ make-directory
+ org-mode
+ geeknote-create
+ package-install
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 8)
+ (eval-buffer . 3)
+ (darkroom-mode . 3)
+ (package-show-package-list . 1)
+ (prelude-fullscreen . 1)
+ (full-screen . 1)
+ (color-theme-dark-blue . 1)
+ (color-theme-lethe . 2)
+ (color-theme-lawrence . 2)
+ (color-theme-xp . 2)
+ (color-theme-snow . 2)
+ (color-theme-arjen . 2)
+ (color-theme-dark-blue2 . 1)
+ (color-theme-comidia . 1)
+ (eshell . 1)
+ (comment-region . 8)
+ (uncomment-region . 3)
+ (make-directory . 2)
+ (package-refresh-contents . 3)
+ (package-list-packages . 1)
+ (color-theme-billw . 1)
+ (color-theme-gnome . 1)
+ (color-theme-marine . 1)
+ (color-theme-gray1 . 1)
+ (color-theme-gray30 . 1)
+ (color-theme-high-contrast . 1)
+ (color-theme-robin-hood . 1)
+ (color-theme-marquardt . 1)
+ (json-mode . 1)
+ (geeknote-create . 9)
+ (server-start . 1)
+ (geeknote-edit . 3)
+ (geeknote-find . 5)
+ (eval-current-buffer . 1)
+ (markdown . 1)
+ (org-mode . 1)
+ (replace-string . 1)
+ (c-objc-menu . 1)
+)

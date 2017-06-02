@@ -1,0 +1,239 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/" . "models/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/" . "db/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/" . "app/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/" . "controllers/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/" . "demo/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/" . "Scripts/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/curso dono/" . "scripts/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/" . "Curso Dono/")
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/ch4/" . "issues/")
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/" . "conversion/")
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/" . "src/")
+ ("/Users/marcelo.toledo/Dropbox/personal/resume/" . "english/")
+ ("/Users/marcelo.toledo/Dropbox/personal/" . "resume/")
+ ("/Users/marcelo.toledo/.emacs.d/personal/" . "preload/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/" . "wspg/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/" . "Dono Academy/")
+ ("/Users/marcelo.toledo/Desktop/Dropbox/" . "current/")
+ ("/Users/marcelo.toledo/Desktop/" . "Dropbox/")
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/03_01/" . "start/")
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/" . "03_01/")
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/" . "Ch03/")
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/" . "wspg/")
+ ("/Users/marcelo.toledo/.emacs.d/" . "personal/")
+ ("/Users/marcelo.toledo/Dropbox/current/emacs/" . "dot-emacs/")
+ ("/Users/marcelo.toledo/Dropbox/current/" . "ST2app/")
+ ("/Users/marcelo.toledo/Dropbox/" . "personal/")
+ ("/Users/marcelo.toledo/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/Scripts/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/Scripts/done/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/models/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/db/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/controllers/"
+ "/Users/marcelo.toledo/Desktop/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/scripts/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/curso dono/scripts/"
+ "/Users/marcelo.toledo/Dropbox/current/golang/"
+ "/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/ch4/issues/"
+ "/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/conversion/"
+ "/Users/marcelo.toledo/Dropbox/personal/"
+ "/Users/marcelo.toledo/.emacs.d/personal/"
+ "/Users/marcelo.toledo/Dropbox/current/ST2app/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/"
+ "/Users/marcelo.toledo/Dropbox/current/RSApp/"
+ "/Users/marcelo.toledo/Dropbox/current/oito1/"
+ "/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/node-postgres-promises/"
+ "/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/wspg/"
+ "/Users/marcelo.toledo/.emacs.d/personal/preload/"
+ "/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/wspg/node_modules/"
+ "/Users/marcelo.toledo/"
+ "/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_RESTful_Web_API_Node_js/Section 2/Video 2.2/"
+ "/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/03_01/start/"
+ "/Users/marcelo.toledo/.emacs.d/"
+ "/Users/marcelo.toledo/Dropbox/current/emacs/dot-emacs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "rs2.txt"
+ "fix.sh"
+ "renata-spallicci.txt"
+ "031-criacao_da_empresa.txt"
+ "030-criacao_do_cliente.txt"
+ "028-entrevista_sobre_a_solucao.txt"
+ "025-validacao_do_cliente.txt"
+ "033-conclusao.txt"
+ "032-cultura.txt"
+ "031-modelo_de_execucao.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/Scripts/" (22790 19625 0 0) "renata-spallicci.txt" "fix.sh" "done/" "backup/" "036-conclusao.txt" "035-cultura.txt" "034-modelo_de_execucao.txt" "033-payleven.txt" "032-rocket_internet_o_comeco.txt" "031-criacao_da_empresa.txt" "030-criacao_do_cliente.txt" "029-entrevista_sobre_a_solucao.txt" "028-produto_minimo_viavel.txt" "027-ajuste_do_produto_mercado.txt" "026-validacao_do_cliente.txt" "025-entrevista_sobre_o_problema.txt" "024-identificacao_do_cliente.txt" "023-desenvolvimento_do_cliente.txt" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/Scripts/done/" (22788 60064 0 0) "dono" "023-desenvolvimento_do_cliente.txt" "022-outros-modelos.txt" "021-padroes.txt" "020-9_blocos.txt" "019-modelo_de_negocios.txt" "018-mito_do_plano_de_negocios.txt" "017-identidade.txt" "016-conselheiros.txt" "015-vesting.txt" "014-divindo_acoes_com_socios_fundadores.txt" "013-socios_fundadores.txt" "012-quebre_as_regras_tome_risco.txt" "011-online_ou_offline.txt" "010-abrir_uma_empresa_de_servico_ou_produto.txt" "009-caracteristicas_de_uma_boa_ideia.txt" "008-como_diminuir_o_risco.txt" "007-porque_a_maioria_das_startups_falham.txt" "006-quanto_vale_uma_ideia.txt" "005-sangue_empreendedor.txt" "004-o_melhor_momento.txt" "003-motivos-corretos.txt" "002-vantagens.txt" "001-o_que_e_uma_startup.txt" "000-boas-vindas.txt" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/" (22780 39618 0 0) "Scripts/" "Resources/" "intro & close.mov" "Gravações/" "Editado/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/" (22780 64143 0 0) "Logo/" "history/" "Curso Dono/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/models/" (22784 65284 0 0) "user.rb" "role.rb" "division.rb" "concerns/" "application_record.rb" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/" (22784 60228 0 0) "views/" "models/" "mailers/" "jobs/" "helpers/" "controllers/" "channels/" "assets/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/controllers/" (22784 65284 0 0) "users_controller.rb" "roles_controller.rb" "divisions_controller.rb" "concerns/" "application_controller.rb" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/db/" (22784 65522 0 0) "seeds.rb" "schema.rb" "migrate/" "development.sqlite3" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/" (22784 60231 0 0) "vendor/" "tmp/" "test/" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/" (22784 60228 0 0) "docs/" "db/" "app/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/views/users/" (22784 44825 0 0) "show.json.jbuilder" "show.html.erb" "new.html.erb" "index.json.jbuilder" "index.html.erb" "edit.html.erb" "_user.json.jbuilder" "_form.html.erb" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/views/" (22784 40050 0 0) "users/" "roles/" "layouts/" "divisions/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/oito1/app/app/assets/" (22784 38667 0 0) "stylesheets/" "javascripts/" "images/" "config/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/" (22784 38038 0 0) "videos/" "Vendendo/" "treino/" "ST2app/" "st2-src/" "scrivener/" "rails/" "processo hoffman/" "oito1/" "nodejs/" "motor/" "marcelotoledo/" "golang/" "FGV/" "fgts amortizacao imovel iubatinga/" "emacs/" "Dono Academy/" "dono/" "atualiza_ip/" "artigos/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/" (22784 37025 0 0) "depot/" "demo/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/views/say/" (22783 50271 0 0) "hello.html.erb" "goodbye.html.erb" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/controllers/" (22783 43689 0 0) "say_controller.rb" "concerns/" "application_controller.rb" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/" (22783 43505 0 0) "views/" "models/" "mailers/" "jobs/" "helpers/" "controllers/" "channels/" "assets/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/app/views/" (22783 43689 0 0) "say/" "layouts/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/rails/demo/" (22783 43542 0 0) "vendor/" "tmp/" "test/" "README.md" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/" (22768 64361 0 0) "Screenshots/" "RH/" "Renata Spallicci/" "Public/" "Planejamento Estratégico 2017 - TI.pptx" "Photos/" "personal/" "LTM/" "inbox/" "Icon
+" "current/" "Camera Uploads/" "Apps/" ".ws.agile.1Password.settings" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/" (22782 22865 0 0) "~$20160726 - KPIs- Cielo - V2.pptx" "unspecified.png" "Thumbs.db" "Picture1.png" "OneDrive - Grupo LTM/" "Lista de convidados.xlsx" "Dropbox/" "DIRTI_RealxOrçado_YTD_2017.xlsb" "convite-livro-rs.jpeg" "Analise reabertura de incidentes_Março.pptx" "Ações_DirTI-Abril.pptx" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/marcelo.toledo/" (22783 43687 0 0) "spacemacs/" "Public/" "prelude/" "Pictures/" "Pagico Data.pgco/" "Music/" "Movies/" "MEGAsync Downloads/" "MEGAsync/" "magnars/" "Library/" "GeekNoteSync.log" "Dropbox/" "Downloads/" "Documents/" "dkmzK+zIA5ixTHf0j7NxPO3vaEjhf8+ea1" "Desktop/" "default.txaPackage" "Creative Cloud Files/" "Applications (Parallels)/" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-ltm-macbook013-5.2" ".zcompdump-ltm-macbook013-5.0.8" ".wget-hsts" ".Trash/" ".subversion/" ".ssh/" ".spacemacs" ".rnd" ".python-eggs/" ".psql_history" ".oracle_jre_usage/" ".oh-my-zsh/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".mongorc.js" ".lesshst" ".gitconfig" ".gem/" ".geeknote/" ".fonts/" ".emacs.d/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".CFUserTextEncoding" ".bundle/" ".bash_sessions/" ".bash_history" ".babel.json" ".atom/" ".apiconnect/" ".account" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/Editado/" (22762 8851 0 0) "005 - Sangue Empreendedor.mp4" "004 - O melhor momento.m4v" "003 - Vantagens.mp4" "002 - O que é uma startup.mp4" "001 - Boas vindas.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/Curso Dono/scripts/" (22762 13262 0 0) "dono" "016-conselheiros.txt" "015-vesting.txt" "014-divindo_acoes_com_socios_fundadores.txt" "013-socios_fundadores.txt" "012-quebre_as_regras_tome_risco.txt" "011-online_ou_offline.txt" "010-abrir_uma_empresa_de_servico_ou_produto.txt" "009-caracteristicas_de_uma_boa_ideia.txt" "008-como_diminuir_o_risco.txt" "007-porque_a_maioria_das_startups_falham.txt" "006-quanto_vale_uma_ideia.txt" "005-sangue_empreendedor.txt" "004-o_melhor_momento.txt" "003-motivos-corretos.txt" "002-vantagens.txt" "001-o_que_e_uma_startup.txt" "000-boas-vindas.txt" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/curso dono/scripts/" (22760 60104 0 0) "dono" "005-sangue_empreendedor.txt" "004-o_melhor_momento.txt" "003-motivos-corretos.txt" "002-vantagens.txt" "001-o_que_e_uma_startup.txt" "000-boas-vindas.txt" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/Dono Academy/curso dono/" (22760 57423 0 0) "scripts/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/" (22672 58703 0 0) "txt" "test-redir.go" "test-conversion.go" "server2.go" "server1.go" "run" "out.gif" "lissajous.go" "links-rs.csv" "helloworld.go" "gopath/" "go" "github.go" "fetchall.go" "fetch.go" "fetch-exercise1.go" "echo3.go" "echo2.go" "echo1.go" "echo-exercises.go" "dup3.go" "dup2.go" "dup1.go" "dup-exercise.go" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/" (22671 17704 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/" (22671 49026 0 0) "gopl.io/" "github.com/" "conversion/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/" (22671 49028 0 0) "README.md" "ch9/" "ch8/" "ch7/" "ch6/" "ch5/" "ch4/" "ch3/" "ch2/" "ch13/" "ch12/" "ch11/" "ch10/" "ch1/" ".git/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/ch4/issues/" (22671 49407 0 0) "main.go" "issues" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/ch4/" (22671 49028 0 0) "treesort/" "sha256/" "rev/" "nonempty/" "movie/" "issuesreport/" "issueshtml/" "issues/" "graph/" "github/" "embed/" "dedup/" "charcount/" "autoescape/" "append/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/gopl.io/ch4/github/" (22671 49028 0 0) "search.go" "github.go" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/golang/gopath/src/conversion/" (22669 59254 0 0) "conversion.go" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/ST2app/" (22662 3975 0 0) "workout.json" "wireframe-app.bmpr" "wireframe-admin.bmpr" "swagger.yaml" "schedule.xlsx" "database-examples.xlsx" "database model.ndm" "apis.txt" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/" (22660 47042 0 0) "wedding.zip" "wedding/" "videos/" "treino/" "ST2app/" "scrivener/" "processo hoffman/" "oito1/" "nodejs/" "marcelotoledo/" "golang/" "FGV/" "fgts amortizacao imovel iubatinga/" "emacs/" "Dono Academy/" "artigos/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/ST2app/" (22655 61218 0 0) "workout.json" "wireframe-app.bmpr" "wireframe-admin.bmpr" "swagger.yaml" "schedule.xlsx" "database-examples.xlsx" "database model.ndm" "apis.txt" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/personal/" (22655 55662 0 0) "preload/" "custom.el" ".gitkeep" "../" "./")
+
+ ("/var/folders/gl/dz8_ws315sz9xfvdw_pw1pznydqx1b/T/" (22655 55830 0 0) "xcrun_db" "tmpWSYaQx.markdown" "tmpSjgPEH.markdown" "tmpRgALML.markdown" "tmpPuSG_Z.markdown" "tmppahWQc.markdown" "tmpoYgJbA.markdown" "tmpNN6GYB.markdown" "tmpIAQIVK.markdown" "tmpgMplfT.markdown" "tmpfR7piA.markdown.save" "tmpfR7piA.markdown" "tmpEKt6Ow.markdown" "tmpe1v_OI.markdown" "tmpDN7Ke2.markdown" "tmpbFT5oK.markdown" "tmpagfDX1.markdown" "tmp891BY1.markdown" "tmp6w5oLq.markdown" "tmp0uVCvQ.markdown" "TemporaryItems/" "Skype/" "QA2G25RMZ4.com.wunderkinder.wunderlist-helper/" "npm-8157-2bfcb315/" "npm-5740-843b1977/" "npm-5705-e525e36a/" "npm-5644-a223e2fd/" "npm-1345-fe733def/" "net.telestream.screenflow6/" "Ln37yZ/" "LaTeXiT-2.8.0/" "hsperfdata_marcelo.toledo/" "FlashTmp.oCoqvW/" "FlashTmp.4nIMeP/" "emacs2094789675/" "com.wunderkinder.wunderlistdesktop/" "com.vicinno.v12cmac/" "com.tinyspeck.slackmacgap/" "com.tapbots.TweetbotMac/" "com.soulmen.ulysses3/" "com.skitch.skitch/" "com.readitlater.PocketMac/" "com.prect.NavicatDataModelerEssentials/" "com.pixelmatorteam.pixelmator/" "com.microsoft.Word/" "com.microsoft.Powerpoint/" "com.microsoft.Outlook/" "com.microsoft.onenote.mac/" "com.microsoft.OneDrive-mac/" "com.microsoft.Office365ServiceV2/" "com.microsoft.Excel/" "com.literatureandlatte.scapple/" "com.indeeo.idraw/" "com.ideasoncanvas.MindNodeMac/" "com.getdropbox.dropbox.garcon/" "com.evernote.EvernoteHelper/" "com.evernote.Evernote/" "com.apple.WeatherKitService/" "com.apple.weather/" "com.apple.tonelibraryd/" "com.apple.TextEdit/" "com.apple.tccd/" "com.apple.systempreferences.cacheAssistant/" "com.apple.stocks/" "com.apple.STMFramework.UIHelper/" "com.apple.STMExtension.Trash/" "com.apple.STMExtension.OtherUsers/" "com.apple.STMExtension.iOSFiles/" "com.apple.STMExtension.GarageBand/" "com.apple.STMExtension.Applications/" "com.apple.Spotlight/" "com.apple.SocialPushAgent/" "com.apple.soagent/" "com.apple.SiriNCService/" "com.apple.siri.media-indexer/" "com.apple.Siri/" "com.apple.sharekit.EntitlementsHelper/" "com.apple.share.Video.upload-Youku/" "com.apple.share.Video.upload-Vimeo/" "com.apple.share.Video.upload-video-Flickr/" "com.apple.share.Video.upload-Tudou/" "com.apple.share.Video.upload-image-Flickr/" "com.apple.share.Video.upload-Facebook/" "com.apple.share.Twitter.set-profile-image/" "com.apple.share.Twitter.post/" "com.apple.share.TencentWeibo.post/" "com.apple.share.System.set-desktop-image/" "com.apple.share.System.set-buddy-picture/" "com.apple.share.System.set-account-picture/" "com.apple.share.System.add-to-safari-reading-list/" "com.apple.share.System.add-to-iphoto/" "com.apple.share.System.add-to-aperture/" "com.apple.share.SocialWidget/" "com.apple.share.SinaWeibo.post/" "com.apple.share.Mail.compose-back-to-sender/" "com.apple.share.Mail.compose/" "com.apple.share.LinkedIn.set-profile-image/" "com.apple.share.LinkedIn.post/" "com.apple.share.Facebook.set-profile-image/" "com.apple.share.Facebook.post/" "com.apple.share.CloudSharing.invite/" "com.apple.share.AirDrop.send/" "com.apple.ScreenSharing/" "com.apple.Safari.CacheDeleteExtension/" "com.apple.Safari/" "com.apple.reminders/" "com.apple.QuickTimePlayerX/" "com.apple.quicklook.ui.helper/" "com.apple.print.PKBrowserService/" "com.apple.Preview/" "com.apple.PressAndHold/" "com.apple.PhotoThemeService/" "com.apple.photos.VideoConversionService/" "com.apple.photos.ImageConversionService/" "com.apple.Photos/" "com.apple.photomoments/" "com.apple.photomodel/" "com.apple.PhotoLibraryMigrationUtility/" "com.apple.photolibraryd/" "com.apple.PhotoIngestService/" "com.apple.PhotoBooth/" "com.apple.photoanalysisd/" "com.apple.PassXPCService/" "com.apple.PassKit.PaymentAuthorizationUIExtension/" "com.apple.Pass-Viewer/" "com.apple.OSDUIHelper/" "com.apple.notificationcenterui.WeatherSummary/" "com.apple.Notes/" "com.apple.NetworkExtension.IKEv2Provider/" "com.apple.ncplugin.WorldClock/" "com.apple.ncplugin.FindMyFriends/" "com.apple.ncplugin.calculator/" "com.apple.messages.MapRenderingService/" "com.apple.MediaLibraryService/" "com.apple.mediaanalysisd/" "com.apple.MarkupUI.MarkupPhotoExtension/" "com.apple.MarkupUI.Markup/" "com.apple.Maps/" "com.apple.MailServiceAgent/" "com.apple.MailCacheDelete/" "com.apple.mail/" "com.apple.Localization.SetDefaultsService/" "com.apple.lateragent/" "com.apple.languageassetd/" "com.apple.iWork.Pages/" "com.apple.iWork.Numbers/" "com.apple.iWork.Keynote/" "com.apple.iTunesCacheExtension/" "com.apple.iMovieApp/" "com.apple.ImageKit.RecentPictureService/" "com.apple.iChat/" "com.apple.iCal/" "com.apple.iBooksX-SecureUserDefaults/" "com.apple.iBooksX/" "com.apple.iBooks.CacheDelete/" "com.apple.grapher/" "com.apple.geod/" "com.apple.FaceTime/" "com.apple.dt.IDECacheDeleteAppExtension/" "com.apple.Dictionary/" "com.apple.diagnosticextensions.osx.wifi/" "com.apple.diagnosticextensions.osx.timemachine/" "com.apple.diagnosticextensions.osx.systemprofile/" "com.apple.diagnosticextensions.osx.syslog/" "com.apple.diagnosticextensions.osx.spotlight/" "com.apple.diagnosticextensions.osx.safari/" "com.apple.diagnosticextensions.osx.maillogs/" "com.apple.diagnosticextensions.osx.installlog/" "com.apple.diagnosticextensions.osx.getmobilityinfo/" "com.apple.diagnosticextensions.osx.filevault/" "com.apple.diagnosticextensions.osx.bluetooth/" "com.apple.DataDetectorsLocalSources/" "com.apple.DataDetectors.DataDetectorsActionService/" "com.apple.ctkahp/" "com.apple.CryptoTokenKit.setoken/" "com.apple.CryptoTokenKit.pivtoken/" "com.apple.corerecents.recentsd/" "com.apple.coremedia.pluginformatreader/" "com.apple.ContactsUI.ContactPickerService/" "com.apple.ContactsAgent/" "com.apple.cloudphotosd/" "com.apple.CloudPhotosConfiguration/" "com.apple.CloudDocsDaemon.StorageManagement/" "com.apple.Chess/" "com.apple.CaptiveNetworkAssistant/" "com.apple.CalendarNotification.CalNCService/" "com.apple.CalendarFileHandler/" "com.apple.CalendarAgent/" "com.apple.calculator/" "com.apple.BKAgentService/" "com.apple.bird/" "com.apple.appstore.PluginXPCService/" "com.apple.appstore/" "com.apple.AirPlayUIAgent/" "com.apple.AddressBook.UrlForwarder/" "com.apple.AddressBook.thumbnailcache/" "com.apple.AddressBook.MapLauncher/" "com.apple.AddressBook.FaceTimeService/" "com.apple.AddressBook.ContactsAccountsService/" "com.apple.AddressBook.ABPersonViewService/" "com.apple.AddressBook/" "com.apple.accessibility.mediaaccessibilityd/" "com.apple.accessibility.heard/" "com.amazon.Kindle/" "com.agilebits.onepassword-osx.safariextensioncompanion/" "com.agilebits.onepassword-osx/" "com.adobe.accmac.ACCFinderSync/" "com.acqualia.soulver/" "assistantd/" "58767055d4443" "586ec8c2db4d2" "586e3c55aae48" "5867964986e64" "2BUA8C4S2C.com.agilebits.onepassword-osx-helper/" ".keystoneAgentLock" ".io.adlk.franz.yajZaC" ".io.adlk.franz.x3bqtT" ".io.adlk.franz.VviCdO" ".io.adlk.franz.Uw7sly" ".io.adlk.franz.uGpBVv" ".io.adlk.franz.TQ5ygO" ".io.adlk.franz.TlMopN/" ".io.adlk.franz.ql4AxD/" ".io.adlk.franz.OP66mR" ".io.adlk.franz.KalzNe" ".io.adlk.franz.iYtdJ4" ".io.adlk.franz.indDTo" ".io.adlk.franz.iBq3km" ".io.adlk.franz.GRqm37" ".io.adlk.franz.FY8Rxo" ".io.adlk.franz.FHBHL0" ".io.adlk.franz.DGTcT7" ".io.adlk.franz.d5XMOf" ".io.adlk.franz.cRrx2K" ".io.adlk.franz.cHOTSD" ".io.adlk.franz.AoWgb0" ".io.adlk.franz.5Jc51G" ".io.adlk.franz.1jNgvG" ".io.adlk.franz.0V4dpr" ".CalendarLocks/" ".AddressBookLocks/" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpoYgJbA.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpNN6GYB.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpIAQIVK.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpgMplfT.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpDN7Ke2.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmpbFT5oK.markdown.~undo-tree~" ".!var!folders!gl!dz8_ws315sz9xfvdw_pw1pznydqx1b!T!tmp0uVCvQ.markdown.~undo-tree~" ".!Users!marcelo.toledo!prelude!personal!custom.el.~undo-tree~" ".!Users!marcelo.toledo!Desktop!geeknote!geeknote!editor.py.~undo-tree~" ".!Users!marcelo.toledo!Desktop!Dropbox!current!ST2app!apis.txt.~undo-tree~" ".!Users!marcelo.toledo!.emacs.d!personal!custom.el.~undo-tree~" ".!Users!marcelo.toledo!.emacs.d!elpa!geeknote-20160717.549!geeknote-autoloads.el.~undo-tree~" ".!Users!marcelo.toledo!.emacs.d!core!prelude-mode.el.~undo-tree~" "!Users!marcelo.toledo!prelude!personal!custom.el~" "!Users!marcelo.toledo!Desktop!Dropbox!current!ST2app!apis.txt~" "!Users!marcelo.toledo!.emacs.d!savefile!recentf~" "!Users!marcelo.toledo!.emacs.d!savefile!ido.hist~" "!Users!marcelo.toledo!.emacs.d!personal!custom.el~" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/" (22655 55513 0 0) "vendor/" "var/" "utils/" "themes/" "savefile/" "sample/" "README.md" "projectile-bookmarks.eld" "prelude-modules.el" "personal/" "modules/" "init.el" "elpa/" "core/" "CONTRIBUTING.md" "auto-save-list/" ".projectile" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/geeknote/" (22655 21627 0 0) "tox.ini" "tests/" "setup.py" "requirements.txt" "README.md" "MANIFEST.in" "geeknote.egg-info/" "geeknote/" "dist/" "build/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/" (22645 7977 0 0) "Screenshots/" "RH/" "Renata Spallicci/" "Public/" "Planejamento Estratégico 2017 - TI.pptx" "Photos/" "personal/" "LTM/" "inbox/" "Icon
+" "current/" "Camera Uploads/" "Apps/" ".ws.agile.1Password.settings" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/personal/resume/english/" (22289 3252 0 0) "uber/" "mdt-resume-pt.tex" "mdt-resume-pt.synctex.gz" "mdt-resume-pt.pdf" "mdt-resume-pt.log" "mdt-resume-pt.aux" "mdt-resume-en.tex" "mdt-resume-en.synctex.gz" "mdt-resume-en.pdf" "mdt-resume-en.log" "mdt-resume-en.aux" "auto/" "2013-09-15-mdt-resume.pdf" "2013-06-26-mdt-resume-en.pdf" "2012-07-resume-marcelo-toledo.pdf" "2012-07-18-marcelo-toledo copy.pdf" "2011-07-13-marcelo-toledo-resume.pdf" "2011-05-05-marcelo-toledo-resume.pdf" "2010-08-25-mdt-resume.pdf" "#mdt-resume-pt.tex#" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/personal/resume/" (22366 46553 0 0) "portuguese/" "outros/" "michael_page/" "lista_head_hunters/" "german/" "english/" ".log" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/personal/" (22461 37201 0 0) "vex/" "resume/" "multimedia/" "dvds/" "documents alias" "documents/" "articles/" "1password4/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/RSApp/" (22634 15515 0 0) "workout.json" "rsapp-wireframe.bmpr" "apis.txt" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/" (22624 21018 0 0) "teste/" "npm-debug.log" "node-postgres-promises/" "new/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/teste/" (22624 22124 0 0) "views/" "routes/" "public/" "package.json" "npm-debug.log" "node_modules/" "bin/" "app.js" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/teste/routes/" (22624 22591 0 0) "users.js" "index.js" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/node-postgres-promises/" (22624 10611 0 0) "views/" "routes/" "queries.js" "puppies.sql" "public/" "package.json" "node_modules/" "index.js" "bin/" "app.js" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/oito1/" (22624 10010 0 0) "wireframe/" "api.raml" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/new/" (22622 53676 0 0) "node-postgres-promises/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/wspg/new/node-postgres-promises/" (22622 53702 0 0) "views/" "routes/" "queries.js" "puppies.sql" "public/" "package.json" "node_modules/" "bin/" "app.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/" (22622 47316 0 0) "wspg/" "Ex_Files_RESTful_Web_API_Node_js/" "Ex_Files_Nodejs_EssT/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/wspg/" (22622 51024 0 0) "queries.js" "puppies.sql" "package.json" "npm-debug.log" "node_modules/" "node-postgres-promises/" "index.js" "app.js" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/.git/" (22622 50206 0 0) "refs/" "packed-refs" "objects/" "logs/" "info/" "index" "hooks/" "HEAD" "description" "config" "branches/" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/personal/preload/" (22618 40637 0 0) ".gitkeep" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/wspg/node_modules/" (22622 49578 0 0) "xtend/" "vary/" "utils-merge/" "unpipe/" "type-is/" "through/" "statuses/" "split/" "spex/" "sorted-object/" "setprototypeof/" "serve-static/" "send/" "semver/" "range-parser/" "queries.js" "qs/" "proxy-addr/" "postgres-interval/" "postgres-date/" "postgres-bytea/" "postgres-array/" "pgpass/" "pg-types/" "pg-promise/" "pg-minify/" "pg-connection-string/" "pg/" "path-to-regexp/" "parseurl/" "packet-reader/" "on-finished/" "negotiator/" "ms/" "mkdirp/" "minimist/" "mime-types/" "mime-db/" "mime/" "methods/" "merge-descriptors/" "media-typer/" "manakin/" "ipaddr.js/" "inherits/" "http-errors/" "graceful-readlink/" "generic-pool/" "fresh/" "forwarded/" "finalhandler/" "express-generator/" "express/" "etag/" "escape-html/" "encodeurl/" "ee-first/" "destroy/" "depd/" "debug/" "cookie-signature/" "cookie/" "content-type/" "content-disposition/" "commander/" "buffer-writer/" "bluebird/" "array-flatten/" "ap/" "accepts/" ".bin/" "../" "./")
+
+ ("/Users/marcelo.toledo/.oh-my-zsh/plugins/" (22410 37375 0 0) "zsh_reload/" "zsh-navigation-tools/" "zeus/" "z/" "yum/" "yii2/" "yii/" "xcode/" "wp-cli/" "web-search/" "wd/" "wakeonlan/" "vundle/" "virtualenvwrapper/" "virtualenv/" "vim-interaction/" "vi-mode/" "vault/" "vagrant/" "urltools/" "ubuntu/" "tugboat/" "torrent/" "tmuxinator/" "tmux-cssh/" "tmux/" "thor/" "themes/" "thefuck/" "textmate/" "textastic/" "terraform/" "terminitor/" "terminalapp/" "taskwarrior/" "systemd/" "systemadmin/" "symfony2/" "symfony/" "svn-fast-info/" "svn/" "suse/" "supervisor/" "sudo/" "sublime/" "stack/" "ssh-agent/" "sprunge/" "spring/" "singlechar/" "sfffe/" "scw/" "screen/" "scd/" "scala/" "sbt/" "safe-paste/" "rvm/" "rust/" "ruby/" "rsync/" "repo/" "redis-cli/" "rebar/" "react-native/" "rbfu/" "rbenv/" "rand-quote/" "rake-fast/" "rake/" "rails/" "python/" "pylint/" "pyenv/" "profiles/" "powify/" "powder/" "pow/" "postgres/" "pod/" "pj/" "pip/" "phing/" "perl/" "per-directory-history/" "pep8/" "paver/" "pass/" "osx/" "nyan/" "nvm/" "npm/" "node/" "nmap/" "nanoc/" "n98-magerun/" "mysql-macports/" "mvn/" "mosh/" "mix-fast/" "mix/" "meteor/" "mercurial/" "marked2/" "man/" "macports/" "lol/" "lighthouse/" "lein/" "last-working-dir/" "laravel5/" "laravel4/" "laravel/" "knife_ssh/" "knife/" "kitchen/" "kate/" "jump/" "jsontools/" "jruby/" "jira/" "jhbuild/" "jake-node/" "iwhois/" "httpie/" "history-substring-search/" "history/" "heroku/" "gulp/" "grunt/" "grails/" "gradle/" "gpg-agent/" "golang/" "go/" "gnu-utils/" "glassfish/" "gitignore/" "github/" "gitfast/" "git-remote-branch/" "git-prompt/" "git-hubflow/" "git-flow-avh/" "git-flow/" "git-extras/" "git/" "gem/" "geeknote/" "gb/" "gas/" "frontend-search/" "fossil/" "forklift/" "fedora/" "fbterm/" "fastfile/" "fasd/" "fancy-ctrl-z/" "fabric/" "extract/" "encode64/" "emotty/" "emoji-clock/" "emoji/" "ember-cli/" "emacs/" "docker-compose/" "docker/" "dnf/" "django/" "dirpersist/" "dirhistory/" "dircycle/" "debian/" "cpanm/" "cp/" "copyfile/" "copydir/" "composer/" "compleat/" "common-aliases/" "command-not-found/" "colorize/" "colored-man-pages/" "colemak/" "coffee/" "codeclimate/" "cloudapp/" "chucknorris/" "chruby/" "celery/" "catimg/" "cask/" "capistrano/" "cakephp3/" "cake/" "cabal/" "bwana/" "bundler/" "brew-cask/" "brew/" "branch/" "bower/" "boot2docker/" "bgnotify/" "bbedit/" "battery/" "aws/" "autopep8/" "autojump/" "autoenv/" "asdf/" "archlinux/" "arcanist/" "apache2-macports/" "ant/" "adb/" "../" "./")
+
+ ("/Users/marcelo.toledo/.oh-my-zsh/" (22369 19099 0 0) "tools/" "themes/" "templates/" "README.md" "plugins/" "oh-my-zsh.sh" "log/" "LICENSE.txt" "lib/" "custom/" "cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/" (22622 47316 0 0) "wspg/" "Ex_Files_RESTful_Web_API_Node_js/" "Ex_Files_Nodejs_EssT/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_RESTful_Web_API_Node_js/Section 2/Video 2.2/" (22621 47078 0 0) "package.json" "node_modules/" "index.js" "config.json" "authenticator.js" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/03_01/start/" (22621 39705 0 0) "global.js" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/03_01/" (22618 31287 0 0) "start/" "finished/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch03/" (22618 31287 0 0) "03_04/" "03_03/" "03_02/" "03_01/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/" (22618 31287 0 0) "Ch11/" "Ch10/" "Ch09/" "Ch08/" "Ch07/" "Ch06/" "Ch05/" "Ch04/" "Ch03/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/" (22618 31287 0 0) "Ch11/" "Ch10/" "Ch09/" "Ch08/" "Ch07/" "Ch06/" "Ch05/" "Ch04/" "Ch03/" ".DS_Store" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch11/" (22067 37382 0 0) "11_06/" "11_05/" "11_04/" "11_03/" "11_02/" "11_01/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch11/11_03/" (22067 37344 0 0) "start/" "finished/" "../" "./")
+
+ ("/Users/marcelo.toledo/Desktop/Dropbox/current/nodejs/Ex_Files_Nodejs_EssT/Ch11/11_03/finished/" (22067 47384 0 0) "test/" "public/" "package.json" "lib/" "less/" "GruntFile.js" "app.js" "app-client.js" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/elpa/darkroom-0.1/" (22618 43828 0 0) "darkroom.elc" "darkroom.el" "darkroom-pkg.el" "darkroom-autoloads.el" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/auto-save-list/" (22618 42192 0 0) ".saves-47693-ltm-macbook013-3.local~" "../" "./")
+
+ ("/Users/marcelo.toledo/.emacs.d/elpa/" (22618 41750 0 0) "zop-to-char-20160212.108/" "zenburn-theme-20161213.324/" "yasnippet-20161211.1918/" "yari-20151127.2339/" "with-editor-20161201.925/" "which-key-20161220.1256/" "volatile-highlights-20160611.1855/" "vkill-20091203.1022/" "undo-tree-20161012.701/" "smex-20151212.1409/" "smartrep-20150508.1930/" "smartparens-20161216.140/" "smart-mode-line-20160818.508/" "seq-2.19/" "s-20160928.636/" "ruby-tools-20151209.815/" "rich-minority-20160725.1255/" "rainbow-mode-0.12/" "rainbow-delimiters-20160430.2358/" "pythonic-20160221.1123/" "projectile-20161218.148/" "pkg-info-20150517.443/" "pcache-20160724.1929/" "ov-20150311.2228/" "operate-on-number-20150706.2323/" "move-text-20161002.2035/" "marshal-20160807.1954/" "markdown-mode-20160928.932/" "makey-20131231.630/" "magit-popup-20161214.519/" "magit-20161220.1051/" "logito-20120225.1255/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-20160803.1606/" "js2-mode-20161212.1716/" "inf-ruby-20161218.1754/" "imenu-anywhere-20160831.356/" "ido-ubiquitous-20160623.815/" "ido-completing-read+-20161211.910/" "ht-20161015.1945/" "guru-mode-20160415.1921/" "grizzl-20160818.37/" "god-mode-20151005.925/" "gitignore-mode-20160319.302/" "gitconfig-mode-20160710.1913/" "git-timemachine-20161125.142/" "git-commit-20161220.1051/" "gist-20161127.855/" "gh-20161119.2004/" "flycheck-20161216.1227/" "flx-ido-20151030.1112/" "flx-20151030.1112/" "f-20161002.800/" "expand-region-20161122.50/" "exec-path-from-shell-20160812.159/" "epl-20150517.433/" "elisp-slime-nav-20160128.1109/" "easy-kill-20151030.2229/" "discover-my-major-20160108.1041/" "diminish-20151215.915/" "diff-hl-20161102.1726/" "dash-20161121.55/" "darkroom-0.1/" "crux-20161219.2313/" "company-auctex-20161025.24/" "company-anaconda-20160809.705/" "company-20161211.1850/" "color-theme-20080305.34/" "cdlatex-20140707.426/" "browse-kill-ring-20160125.9/" "beacon-20161004.756/" "avy-20160814.250/" "auctex-11.89.7/" "async-20161103.1036/" "archives/" "anzu-20161017.907/" "anaconda-mode-20161121.1137/" "ace-window-20161018.1624/" "../" "./")
+
+ ("/Users/" (22519 42233 0 0) "Shared/" "mateus.garcia/" "marcelo.toledo/" "lucas.pereira/" "Guest/" "adm_ltm/" ".marcelo.toledo.xahome/" ".localized" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/emacs/dot-emacs/" (22618 41287 0 0) "url/" "tramp" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "recentf" "README.markdown" "places" "modules/" "marcelo.toledo.el" "marcelo.el" "marcelo/" "init.el" "ido.last~" "ido.last" "elpa/" "COPYING" "changelog.md" "backups/" "auto-save-list/" ".smex-items" ".git/" "#starter-kit-defuns.el#" "#marcelo.el#" "#init.el#" "../" "./")
+
+ ("/Users/marcelo.toledo/Dropbox/current/emacs/" (22313 11767 0 0) "peepcode-027-emacs.mov" "original/" "emacs-starter-kit/" "dot-emacs/" "2010-08-20-marcelo-original.tgz" "2010-08-20-emacs.tgz" "2009-06/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
