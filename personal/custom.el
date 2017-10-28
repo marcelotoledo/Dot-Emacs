@@ -5,7 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (csv-mode geeknote go-mode yaml-mode automargin darkroom-mode darkroom color-theme markdown-mode vkill exec-path-from-shell zop-to-char zenburn-theme which-key volatile-highlights undo-tree smartrep smartparens smart-mode-line operate-on-number move-text magit projectile ov imenu-anywhere guru-mode grizzl god-mode gitignore-mode gitconfig-mode git-timemachine gist flycheck expand-region epl easy-kill diminish diff-hl discover-my-major dash crux browse-kill-ring beacon anzu ace-window))))
+    (helm-ag helm-descbinds geiser helm-projectile helm anaconda-mode async auctex avy company f gh git-commit ht ido-completing-read+ inf-ruby js2-mode json-mode magit-popup marshal pcache powerline rainbow-delimiters rainbow-mode rich-minority s seq with-editor yasnippet smart-mode-line-powerline-theme fiplr spaceline-all-the-icons spaceline dumb-jump sayid clojure-mode csv-mode geeknote go-mode yaml-mode automargin darkroom-mode darkroom color-theme markdown-mode vkill exec-path-from-shell zop-to-char zenburn-theme which-key volatile-highlights undo-tree smartrep smartparens operate-on-number move-text magit projectile ov imenu-anywhere guru-mode grizzl god-mode gitignore-mode gitconfig-mode git-timemachine gist flycheck expand-region epl easy-kill diminish diff-hl discover-my-major dash crux browse-kill-ring beacon anzu ace-window))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -33,10 +33,7 @@
 (global-set-key (kbd "<M-f1>") 'undo)
 (global-set-key (kbd "<M-f3>") 'call-last-kbd-macro)
 ;;(global-set-key (kbd "<M-f4>") 'my-erc)
-;;(global-set-key (kbd "<M-f5>") 'calendar)
 (global-set-key (kbd "<M-f11>") 'darkroom-mode)
-;;(global-set-key (kbd "<M-f11>") 'darkroom-tentative-mode)
-;;(global-set-key (kbd "<M-f12>") 'toggle-frame-fullscreen)
 (global-set-key (kbd "<M-f12>") 'toggle-frame-maximized)
 ;;(global-set-key (kbd "<M-f12>") 'reload-emacs)
 (global-set-key (kbd "C-c e") 'eshell)
@@ -44,18 +41,15 @@
 (global-set-key (kbd "C-c s") '(lambda ()
                                  (interactive)
                                  (switch-to-buffer "*scratch*")))
-
-;;(global-set-key (kbd "<next>") 'my-buf-next-buffer)
-;;(global-set-key (kbd "<prior>") 'my-buf-prev-buffer)
 (global-set-key (kbd "<C-up>") 'my-buf-next-buffer)
 (global-set-key (kbd "<C-down>") 'my-buf-prev-buffer)
-;;(global-set-key (kbd "<end>") 'kill-buffer-not-scratch)
-;;(global-set-key (kbd "<home>") 'other-window)
 (global-set-key (kbd "M-o") 'other-window)
+(define-key global-map (kbd "M-+") 'text-scale-increase)
+(define-key global-map (kbd "M--") 'text-scale-decrease)
+(global-set-key (kbd "M-p") 'avy-goto-char)
+(global-set-key (kbd "M-:") 'avy-goto-char-2)
+(global-set-key (kbd "C-x g") 'magit-status)
 
-;; increase or decrease text
-;;(define-key global-map (kbd "M-+") 'text-scale-increase)
-;;(define-key global-map (kbd "M--") 'text-scale-decrease)
 
 (defun my-buf-ignore (str)
   "buffers que são ignorados"
@@ -191,6 +185,10 @@
 (set-frame-font "Menlo:pixelsize=18")
 ;;(set-face-attribute 'default nil :height 160)
 
+;; sayid clojure
+(eval-after-load 'clojure-mode
+  '(sayid-setup-package))
+
 ;; geeknote
 (setq geeknote-command "python /usr/local/bin/geeknote")
 
@@ -200,3 +198,6 @@
 (global-set-key (kbd "C-c g s") 'geeknote-show)
 (global-set-key (kbd "C-c g r") 'geeknote-remove)
 (global-set-key (kbd "C-c g m") 'geeknote-move)
+
+;; dumb-jump
+(dumb-jump-mode)

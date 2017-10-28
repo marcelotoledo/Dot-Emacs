@@ -1,3 +1,6 @@
 ls
 node glo
 node global.js 
+ls
+mv rewards.clj rewards_test.clj
+ls

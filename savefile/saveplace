@@ -1,3 +1,270 @@
 ;;; -*- coding: utf-8 -*-
-(("/Users/marcelotoledo/.emacs.d/savefile/recentf" . 16334)
- ("/Users/marcelotoledo/.emacs.d/savefile/ido.hist" . 35172))
+(("/Users/marcelotoledo/dev/nu/pet-owners/src/pet_owners/core.clj" . 1073)
+ ("/Users/marcelotoledo/.emacs.d/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/personal"))
+ ("/Users/marcelotoledo/.emacs.d/personal/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/personal/custom.el"))
+ ("/Users/marcelotoledo/.emacs.d/personal/custom.el" . 6295)
+ ("/Users/marcelotoledo/.emacs.d/savefile/recentf" . 24278)
+ ("/Users/marcelotoledo/.emacs.d/savefile/ido.hist" . 44861)
+ ("/Users/marcelotoledo/dev/nu/pet-owners/test/pet_owners/core_test.clj" . 438)
+ ("/Users/marcelotoledo/Downloads/StrongPassword.alfredworkflow" . 1486)
+ ("/Users/marcelotoledo/dev/nu/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/exercicio-onboarding-giovani-marcelo"))
+ ("/Users/marcelotoledo/dev/nu/exercicio-onboarding-giovani-marcelo/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/exercicio-onboarding-giovani-marcelo/postman"))
+ ("/Users/marcelotoledo/dev/nu/pet-owners/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/pet-owners/src"))
+ ("/Users/marcelotoledo/dev/nu/pet-owners/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/pet-owners/src/pet_owners"))
+ ("/Users/marcelotoledo/dev/nu/pet-owners/src/pet_owners/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/pet-owners/src/pet_owners/core.clj"))
+ ("/Users/marcelotoledo/.emacs.d/elpa/helm-ag-20170209.745/helm-ag-autoloads.el" . 914)
+ ("/Users/marcelotoledo/.emacs.d/elpa/helm-descbinds-20160916.713/helm-descbinds-autoloads.el" . 1855)
+ ("/Users/marcelotoledo/.emacs.d/elpa/ido-ubiquitous-20170923.842/ido-ubiquitous-autoloads.el" . 254)
+ ("/Users/marcelotoledo/.emacs.d/elpa/geiser-20171010.1610/geiser-autoloads.el" . 4313)
+ ("/Users/marcelotoledo/.emacs.d/elpa/helm-projectile-20170926.1123/helm-projectile-autoloads.el" . 2105)
+ ("/Users/marcelotoledo/.emacs.d/elpa/helm-20171026.2156/helm-autoloads.el" . 29942)
+ ("/Users/marcelotoledo/.emacs.d/elpa/helm-core-20171020.1124/helm-core-autoloads.el" . 6046)
+ ("/Users/marcelotoledo/.emacs.d/elpa/ace-window-20170801.1334/ace-window-autoloads.el" . 1621)
+ ("/Users/marcelotoledo/.emacs.d/elpa/anaconda-mode-20170924.704/anaconda-mode-autoloads.el" . 611)
+ ("/Users/marcelotoledo/.emacs.d/elpa/async-20171015.2239/async-autoloads.el" . 4604)
+ ("/Users/marcelotoledo/.emacs.d/elpa/auctex-11.91.0/auctex-autoloads.el" . 10386)
+ ("/Users/marcelotoledo/.emacs.d/elpa/avy-20171014.20/avy-autoloads.el" . 7518)
+ ("/Users/marcelotoledo/.emacs.d/elpa/beacon-20171017.1540/beacon-autoloads.el" . 1190)
+ ("/Users/marcelotoledo/.emacs.d/elpa/browse-kill-ring-20171016.1312/browse-kill-ring-autoloads.el" . 747)
+ ("/Users/marcelotoledo/.emacs.d/elpa/company-20171017.1638/company-autoloads.el" . 9168)
+ ("/Users/marcelotoledo/.emacs.d/elpa/crux-20170801.1334/crux-autoloads.el" . 821)
+ ("/Users/marcelotoledo/.emacs.d/elpa/dash-20171010.131/dash-autoloads.el" . 256)
+ ("/Users/marcelotoledo/.emacs.d/elpa/diff-hl-20170709.2000/diff-hl-autoloads.el" . 4394)
+ ("/Users/marcelotoledo/.emacs.d/elpa/diminish-20170419.1036/diminish-autoloads.el" . 2250)
+ ("/Users/marcelotoledo/.emacs.d/elpa/discover-my-major-20170113.2306/discover-my-major-autoloads.el" . 699)
+ ("/Users/marcelotoledo/.emacs.d/elpa/exec-path-from-shell-20170508.4/exec-path-from-shell-autoloads.el" . 1274)
+ ("/Users/marcelotoledo/.emacs.d/elpa/expand-region-20170514.1309/expand-region-autoloads.el" . 3901)
+ ("/Users/marcelotoledo/.emacs.d/elpa/f-20170404.1039/f-autoloads.el" . 228)
+ ("/Users/marcelotoledo/.emacs.d/elpa/flycheck-20171026.610/flycheck-autoloads.el" . 8429)
+ ("/Users/marcelotoledo/.emacs.d/elpa/gh-20170512.2049/gh-autoloads.el" . 13413)
+ ("/Users/marcelotoledo/.emacs.d/elpa/gist-20170604.1834/gist-autoloads.el" . 2338)
+ ("/Users/marcelotoledo/.emacs.d/elpa/git-commit-20171007.346/git-commit-autoloads.el" . 1302)
+ ("/Users/marcelotoledo/.emacs.d/elpa/git-timemachine-20170325.220/git-timemachine-autoloads.el" . 696)
+ ("/Users/marcelotoledo/.emacs.d/elpa/gitconfig-mode-20170627.854/gitconfig-mode-autoloads.el" . 630)
+ ("/Users/marcelotoledo/.emacs.d/elpa/go-mode-20170726.555/go-mode-autoloads.el" . 3095)
+ ("/Users/marcelotoledo/.emacs.d/elpa/guru-mode-20170730.31/guru-mode-autoloads.el" . 1143)
+ ("/Users/marcelotoledo/.emacs.d/elpa/ht-20171024.1200/ht-autoloads.el" . 230)
+ ("/Users/marcelotoledo/.emacs.d/elpa/ido-completing-read+-20170820.3/ido-completing-read+-autoloads.el" . 3233)
+ ("/Users/marcelotoledo/.emacs.d/elpa/imenu-anywhere-20170805.1155/imenu-anywhere-autoloads.el" . 1550)
+ ("/Users/marcelotoledo/.emacs.d/elpa/inf-ruby-20170615.335/inf-ruby-autoloads.el" . 3135)
+ ("/Users/marcelotoledo/.emacs.d/elpa/js2-mode-20171014.1229/js2-mode-autoloads.el" . 1628)
+ ("/Users/marcelotoledo/.emacs.d/elpa/json-mode-20170719.2205/json-mode-autoloads.el" . 1783)
+ ("/Users/marcelotoledo/.emacs.d/elpa/magit-20171027.641/magit-autoloads.el" . 67765)
+ ("/Users/marcelotoledo/.emacs.d/elpa/magit-popup-20171023.926/magit-popup-autoloads.el" . 277)
+ ("/Users/marcelotoledo/.emacs.d/elpa/markdown-mode-20171022.1736/markdown-mode-autoloads.el" . 659)
+ ("/Users/marcelotoledo/.emacs.d/elpa/marshal-20171018.932/marshal-autoloads.el" . 572)
+ ("/Users/marcelotoledo/.emacs.d/elpa/move-text-20170908.2030/move-text-autoloads.el" . 1875)
+ ("/Users/marcelotoledo/.emacs.d/elpa/pcache-20170105.1414/pcache-autoloads.el" . 238)
+ ("/Users/marcelotoledo/.emacs.d/elpa/powerline-20171023.750/powerline-autoloads.el" . 2290)
+ ("/Users/marcelotoledo/.emacs.d/elpa/projectile-20171009.848/projectile-autoloads.el" . 16826)
+ ("/Users/marcelotoledo/.emacs.d/elpa/rainbow-delimiters-20170929.432/rainbow-delimiters-autoloads.el" . 740)
+ ("/Users/marcelotoledo/.emacs.d/elpa/rainbow-mode-0.13/rainbow-mode-autoloads.el" . 495)
+ ("/Users/marcelotoledo/.emacs.d/elpa/rich-minority-20170813.622/rich-minority-autoloads.el" . 1158)
+ ("/Users/marcelotoledo/.emacs.d/elpa/s-20170922.900/s-autoloads.el" . 228)
+ ("/Users/marcelotoledo/.emacs.d/elpa/seq-2.20/seq-autoloads.el" . 277)
+ ("/Users/marcelotoledo/.emacs.d/elpa/smartparens-20171021.718/smartparens-autoloads.el" . 6713)
+ ("/Users/marcelotoledo/.emacs.d/elpa/undo-tree-20170706.246/undo-tree-autoloads.el" . 1654)
+ ("/Users/marcelotoledo/.emacs.d/elpa/which-key-20170817.1107/which-key-autoloads.el" . 3992)
+ ("/Users/marcelotoledo/.emacs.d/elpa/with-editor-20171006.352/with-editor-autoloads.el" . 277)
+ ("/Users/marcelotoledo/.emacs.d/elpa/yaml-mode-20170727.1531/yaml-mode-autoloads.el" . 595)
+ ("/Users/marcelotoledo/.emacs.d/elpa/yasnippet-20170923.1646/yasnippet-autoloads.el" . 1606)
+ ("/Users/marcelotoledo/.emacs.d/elpa/zenburn-theme-20171010.543/zenburn-theme-autoloads.el" . 471)
+ ("/Users/marcelotoledo/.emacs.d/elpa/zop-to-char-20160212.754/zop-to-char-autoloads.el" . 917)
+ ("/Users/marcelotoledo/Desktop/Dropbox/"
+  (dired-filename . "/Users/marcelotoledo/Desktop/Dropbox/.."))
+ ("/Users/marcelotoledo/Desktop/"
+  (dired-filename . "/Users/marcelotoledo/Desktop/.."))
+ ("/Users/marcelotoledo/"
+  (dired-filename . "/Users/marcelotoledo/dev"))
+ ("/Users/marcelotoledo/dev/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu"))
+ ("/Users/marcelotoledo/dev/nu/sommelier/contract/contract_main.clj" . 183)
+ ("/Users/marcelotoledo/dev/nu/sommelier/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/.."))
+ ("/Users/marcelotoledo/.emacs.d/elpa/smart-mode-line-powerline-theme-20160705.1738/smart-mode-line-powerline-theme-autoloads.el" . 952)
+ ("/Users/marcelotoledo/.emacs.d/elpa/fiplr-20140723.2345/fiplr-autoloads.el" . 1805)
+ ("/Users/marcelotoledo/dev/nu/sommelier/.gitignore" . 3)
+ ("/Users/marcelotoledo/dev/nu/cider/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/cider/cider-interaction.el"))
+ ("/Users/marcelotoledo/dev/nu/cider/cider-interaction.el" . 50365)
+ ("/Users/marcelotoledo/dev/nu/cider/cider-mode.el" . 12583)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/test/datomic_tests/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/test/datomic_tests/.."))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/test/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/test/.."))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/.."))
+ ("/Users/marcelotoledo/dev/nu/pet-owners/test/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/pet-owners/test/pet_owners"))
+ ("/Users/marcelotoledo/dev/nu/pet-owners/test/pet_owners/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/pet-owners/test/pet_owners/core_test.clj"))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/test/datomic_tests/core_test.clj" . 296)
+ ("/Users/marcelotoledo/dev/nu/sommelier/contract/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/contract/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/resources/contract/sommelier/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/resources/contract/sommelier/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/resources/contract/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/resources/contract/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/resources/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/resources/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/test/sommelier/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/test/sommelier/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/test/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/test/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/logic/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/logic/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/adapters/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/adapters/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/.."))
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/src/.."))
+ ("/Users/marcelotoledo/dev/nu/chateau/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src"))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau"))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/diplomat/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/diplomat/.."))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/interceptors/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/interceptors/.."))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/extension/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/extension/.."))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/.."))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/db"))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/db/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/db/datomic"))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/db/datomic/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/chateau/src/chateau/db/datomic/balance.clj"))
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/db/datomic/accounting.clj" . 573)
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/extension/visibility.clj" . 937)
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/redemption.clj" . 533)
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/models/offer.clj" . 1772)
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/service.clj" . 13186)
+ ("/Users/marcelotoledo/dev/nu/chateau/src/chateau/config.clj" . 2520)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/adapters/enrollment.clj" . 4859)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/adapters/external_account.clj" . 1142)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/logic/change_plan.clj" . 658)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/logic/enrollment.clj" . 3148)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/logic/plan.clj" . 2172)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/models/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/models/feedback.clj"))
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/models/plan.clj" . 2786)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/service.clj" . 5832)
+ ("/Users/marcelotoledo/dev/nu/sommelier/src/sommelier/config.clj" . 282)
+ ("/Users/marcelotoledo/dev/nu/sommelier/test/sommelier/adapters/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/sommelier/test/sommelier/adapters/enrollment_request_test.clj"))
+ ("/Users/marcelotoledo/dev/nu/sommelier/resources/sommelier_config.json.base" . 3624)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/src/datomic_tests/core.clj" . 439)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/src/datomic_tests/hello.clj" . 75)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/test/datomic_tests/hello_test.clj" . 207)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/project.clj" . 552)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/src/datomic_tests/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/src/datomic_tests/.."))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/src/.."))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/resources/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/datomic-tests/resources/datomic"))
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/resources/datomic/" . 228)
+ ("/Users/marcelotoledo/dev/nu/datomic-tests/resources/datomic/schema.edn" . 571)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/project.clj" . 665)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/rewards_system_exercise/core_test.clj" . 135)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/rewards_system_exercise/rewards_test.clj" . 736)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/core.clj" . 12)
+ ("/Users/marcelotoledo/dev/nu/cljdev/src/profiles.clj" . 519)
+ ("/Users/marcelotoledo/dev/nu/pet-owners/project.clj" . 327)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/src"))
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise"))
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/core.clj"))
+ ("/Users/marcelotoledo/.emacs.d/elpa/spaceline-all-the-icons-20170829.120/spaceline-all-the-icons-autoloads.el" . 735)
+ ("/Users/marcelotoledo/.emacs.d/elpa/all-the-icons-20171011.324/all-the-icons-autoloads.el" . 1711)
+ ("/Users/marcelotoledo/.emacs.d/elpa/font-lock+-20170222.1755/font-lock+-autoloads.el" . 246)
+ ("/Users/marcelotoledo/.emacs.d/elpa/memoize-20170720.1802/memoize-autoloads.el" . 240)
+ ("/Users/marcelotoledo/.emacs.d/elpa/spaceline-20171016.157/spaceline-autoloads.el" . 317)
+ ("/Users/marcelotoledo/dev/nu/pet-owners/resources/datomic/schema.edn" . 373)
+ ("/Users/marcelotoledo/.emacs.d/vendor/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/vendor/.."))
+ ("/Users/marcelotoledo/.emacs.d/utils/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/utils/.."))
+ ("/Users/marcelotoledo/.emacs.d/themes/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/themes/.."))
+ ("/Users/marcelotoledo/.emacs.d/savefile/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/savefile/.."))
+ ("/Users/marcelotoledo/.emacs.d/sample/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/sample/.."))
+ ("/Users/marcelotoledo/.emacs.d/personal/preload/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/personal/preload/.."))
+ ("/Users/marcelotoledo/.emacs.d/modules/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/modules/.."))
+ ("/Users/marcelotoledo/.emacs.d/elpa/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/elpa/.."))
+ ("/Users/marcelotoledo/.emacs.d/core/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/core/prelude-ui.el"))
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-ui.el" . 2773)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-packages.el" . 6191)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-osx.el" . 1474)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-mode.el" . 6102)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-global-keybindings.el" . 3878)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-editor.el" . 15428)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-custom.el" . 3352)
+ ("/Users/marcelotoledo/.emacs.d/core/prelude-core.el" . 5772)
+ ("/Users/marcelotoledo/.emacs.d/init.el" . 4791)
+ ("/Users/marcelotoledo/.emacs.d/utils/installer.sh" . 3395)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/README.md" . 2365)
+ ("/Users/marcelotoledo/dev/nu/auth/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/auth/src"))
+ ("/Users/marcelotoledo/dev/nu/auth/src/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/auth/src/auth"))
+ ("/Users/marcelotoledo/dev/nu/auth/src/auth/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/auth/src/auth/protocols"))
+ ("/Users/marcelotoledo/dev/nu/auth/src/auth/logic/user.clj" . 2743)
+ ("/Users/marcelotoledo/dev/nu/auth/src/auth/service.clj" . 4448)
+ ("/Users/marcelotoledo/dev/nu/auth/src/auth/interceptors.clj" . 2042)
+ ("/Users/marcelotoledo/dev/nu/auth/src/auth/server.clj" . 540)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/rewards.clj" . 2857)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/rewards_system_exercise/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/rewards_system_exercise/.."))
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/test/.."))
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/input-files/input-teste.txt" . 27)
+ ("/Users/marcelotoledo/.lein/self-installs/"
+  (dired-filename . "/Users/marcelotoledo/.lein/self-installs/.."))
+ ("/Users/marcelotoledo/.lein/indices/"
+  (dired-filename . "/Users/marcelotoledo/.lein/indices/.."))
+ ("/Users/marcelotoledo/.lein/"
+  (dired-filename . "/Users/marcelotoledo/.lein/profiles.clj"))
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/server.clj" . 875)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/usage.clj" . 163)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/src/rewards_system_exercise/file.clj" . 373)
+ ("/Users/marcelotoledo/dev/nu/rewards-system-exercise/resources/"
+  (dired-filename . "/Users/marcelotoledo/dev/nu/rewards-system-exercise/resources/.."))
+ ("/Users/marcelotoledo/.emacs.d/elpa/dumb-jump-20171013.2105/dumb-jump-autoloads.el" . 2097)
+ ("/Users/marcelotoledo/.emacs.d/elpa/sayid-20170509.1215/sayid-autoloads.el" . 5698)
+ ("/Users/marcelotoledo/.emacs.d/elpa/ensime-20171005.347/ensime-autoloads.el" . 2263)
+ ("/Users/marcelotoledo/.emacs.d/elpa/sbt-mode-20170820.924/sbt-mode-autoloads.el" . 2985)
+ ("/Users/marcelotoledo/.emacs.d/elpa/popup-20160709.729/popup-autoloads.el" . 236)
+ ("/Users/marcelotoledo/.emacs.d/elpa/scala-mode-20170802.432/scala-mode-autoloads.el" . 1313)
+ ("/Users/marcelotoledo/.emacs.d/elpa/gotest-20170823.141/gotest-autoloads.el" . 1132)
+ ("/Users/marcelotoledo/.emacs.d/elpa/go-projectile-20170302.1705/go-projectile-autoloads.el" . 252)
+ ("/Users/marcelotoledo/.emacs.d/elpa/go-rename-20161117.331/go-rename-autoloads.el" . 502)
+ ("/Users/marcelotoledo/.emacs.d/elpa/go-guru-20170718.1046/go-guru-autoloads.el" . 2896)
+ ("/Users/marcelotoledo/.emacs.d/elpa/go-eldoc-20170305.627/go-eldoc-autoloads.el" . 389)
+ ("/Users/marcelotoledo/.emacs.d/elpa/company-go-20170825.943/company-go-autoloads.el" . 395)
+ ("/Users/marcelotoledo/.emacs.d/elpa/cider-20171001.112/cider-autoloads.el" . 11197)
+ ("/Users/marcelotoledo/.emacs.d/elpa/queue-0.2/queue-autoloads.el" . 356)
+ ("/Users/marcelotoledo/.emacs.d/elpa/spinner-1.7.3/spinner-autoloads.el" . 2428)
+ ("/Users/marcelotoledo/.emacs.d/elpa/clojure-mode-20171008.743/clojure-mode-autoloads.el" . 3908)
+ ("/Users/marcelotoledo/.emacs.d/modules/doc/"
+  (dired-filename . "/Users/marcelotoledo/.emacs.d/modules/doc/.."))
+ ("/Users/marcelotoledo/.emacs.d/prelude-modules.el" . 1190))
