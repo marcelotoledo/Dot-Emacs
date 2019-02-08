@@ -62,7 +62,7 @@ values."
    ;; configuration in `dotspacemacs/user-config'.
    dotspacemacs-additional-packages '(paredit
                                       spaceline-all-the-icons
-                                      ;;olivetti
+                                      olivetti
                                       emidje
                                       doom-themes)
    ;; A list of packages that cannot be updated.
@@ -333,11 +333,11 @@ you should place your code here."
         mac-command-modifier 'meta)
 
   ;; centralized mode - olivetti
-  ;;(setq olivetti-body-width 100)
+  (setq olivetti-body-width 100)
 
-  ;; (define-globalized-minor-mode my-global-centered-mode olivetti-mode
-  ;;   (lambda () (olivetti-mode)))
-  ;; (my-global-centered-mode)
+  (define-globalized-minor-mode my-global-centered-mode olivetti-mode
+    (lambda () (olivetti-mode)))
+  (my-global-centered-mode)
 
   ;; title bar uses the same color as your background color theme
   (add-to-list 'default-frame-alist '(ns-transparent-titlebar . t))
@@ -377,9 +377,13 @@ you should place your code here."
   ;; emidje
   (eval-after-load 'cider
     #'emidje-setup)
-
+  
   ;; centralized-mode
-  (load-file "~/dev/personal/centralized-mode/centralized-mode.el")
+  ;;(load-file "~/dev/personal/centralized-mode/centralized-mode.el")
+  ;; (define-globalized-minor-mode my-global-centered-mode centralized-mode
+  ;;   (lambda () (centralized-mode 1) (message "GAME ON!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")))
+  ;; (my-global-centered-mode 1)
+
 ;;  (define-globalized-minor-mode my-global-centralized-mode centralized-mode
 ;;    (lambda () (centralized-on)))
 ;;  (my-global-centralized-mode 1)
@@ -389,7 +393,8 @@ you should place your code here."
   ;;
   (global-set-key (kbd "<M-f1>")        'undo)
   (global-set-key (kbd "<M-f3>")        'call-last-kbd-macro)
-  (global-set-key (kbd "<M-f11>")       'centralized-mode)
+  ;;(global-set-key (kbd "<M-f11>")       'centralized-mode)
+  (global-set-key (kbd "<M-f11>")       'olivetti-mode)
   (global-set-key (kbd "<M-f12>")       'toggle-frame-maximized)
   (global-set-key (kbd "C-c s")         '(lambda ()
                                            (interactive)
