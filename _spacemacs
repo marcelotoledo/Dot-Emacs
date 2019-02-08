@@ -377,17 +377,7 @@ you should place your code here."
   ;; emidje
   (eval-after-load 'cider
     #'emidje-setup)
-  
-  ;; centralized-mode
-  ;;(load-file "~/dev/personal/centralized-mode/centralized-mode.el")
-  ;; (define-globalized-minor-mode my-global-centered-mode centralized-mode
-  ;;   (lambda () (centralized-mode 1) (message "GAME ON!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")))
-  ;; (my-global-centered-mode 1)
 
-;;  (define-globalized-minor-mode my-global-centralized-mode centralized-mode
-;;    (lambda () (centralized-on)))
-;;  (my-global-centralized-mode 1)
-  
   ;;
   ;; Keybindings
   ;;
